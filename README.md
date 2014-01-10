@@ -71,3 +71,7 @@ project's open source license. Whether or not you state this explicitly, by
 submitting any copyrighted material via pull request, email, or other means
 you agree to license the material under the project's open source license and
 warrant that you have the legal authority to do so.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mbonaci/spark/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
